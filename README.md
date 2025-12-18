@@ -10,7 +10,7 @@ Best results are **160px tall × 80px wide** (1:2 portrait).
 2. Run `convert.py` to convert it to `.raw` (format the DR7 display accepts)
 3. Copy the output to the router via scp or whateva
 4. Edit `hijack-display.sh` to point to the frame folder and adjust the frame delay
-5. Run the script
+5. Run the script on router
 
 Press `Ctrl+C` to stop playback and restore the default UI.
 
