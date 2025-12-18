@@ -1,6 +1,6 @@
 # Ubiquiti Dream Router 7 screen override.
 
-Custom screen display for the **DR7**.
+Custom screen display for the **DR7**. Vibe coded.
 
 Find an image or GIF you like.  
 Best results are **160px tall × 80px wide** (1:2 portrait).
